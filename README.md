@@ -1,18 +1,18 @@
 **README**
 
-**Project Title:** Aerofit Treadmill Customer Analysis
+**Project Title:** Fitness Treadmill Customer Analysis
 
 **Description:**
-This repository contains the implementation of a comprehensive data analysis project aimed at understanding the characteristics of the target audience for each type of treadmill offered by Aerofit, a leading brand in fitness equipment. The project focuses on providing actionable insights to the market research team at Aerofit to enhance customer recommendations and segmentation strategies.
+This repository contains the implementation of a comprehensive data analysis project aimed at understanding the characteristics of the target audience for each type of treadmill offered by fitness equipment Brand, a leading brand in fitness equipment. The project focuses on providing actionable insights to the market research team at Aerofit to enhance customer recommendations and segmentation strategies.
 
 **Business Problem:**
-The market research team at Aerofit aims to identify the key characteristics of customers purchasing different types of treadmills offered by the company. By investigating potential differences across product lines with respect to customer demographics and preferences, the team seeks to improve recommendations for new customers.
+The market research team at the fitness equipment brand aims to identify the key characteristics of customers purchasing different types of treadmills offered by the company. By investigating potential differences across product lines with respect to customer demographics and preferences, the team seeks to improve recommendations for new customers.
 
 **Dataset:**
 The dataset used for this analysis comprises information on individuals who purchased a treadmill from Aerofit stores over the past three months. It includes features such as product purchased, age, gender, education level, marital status, usage frequency, income, self-rated fitness level, and expected weekly distance.
 
 **Project Objectives:**
-1. Perform descriptive analytics to create customer profiles for each Aerofit treadmill product.
+1. Perform descriptive analytics to create customer profiles for each Fitness treadmill product.
 2. Construct two-way contingency tables and compute marginal and conditional probabilities for each treadmill product.
 3. Detect outliers and investigate the effect of features like age and marital status on the product purchased.
 4. Explore correlations among different factors using visualizations like heatmaps and pair plots.
